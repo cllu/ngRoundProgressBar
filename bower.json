@@ -6,9 +6,14 @@
     "Chunliang Lyu <hi@chunlianglyu.com>"
   ],
   "description": "An Angular directive to provide round progress bars",
+  "main": [
+    "main.js",
+    "main.css"
+  ],
   "keywords": [
     "angular",
-    "directive"
+    "directive",
+    "progress bar"
   ],
   "license": "MIT",
   "ignore": [
@@ -19,6 +24,6 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.3.0"
+    "angular": "~1"
   }
 }

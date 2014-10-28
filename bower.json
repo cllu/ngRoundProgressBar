@@ -1,0 +1,24 @@
+{
+  "name": "ngRoundProgressBar",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cllu/ngRoundProgressBar",
+  "authors": [
+    "Chunliang Lyu <hi@chunlianglyu.com>"
+  ],
+  "description": "An Angular directive to provide round progress bars",
+  "keywords": [
+    "angular",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.0"
+  }
+}
